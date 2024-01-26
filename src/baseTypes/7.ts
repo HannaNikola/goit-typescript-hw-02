@@ -20,6 +20,5 @@ function isWeekend(day: Weekday): boolean{
 
 
 
-// const today: Weekday = Weekday.Saturday;
-// const isTodayWeekend: boolean = isWeekend(today);
+
 
